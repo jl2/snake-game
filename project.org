@@ -1,0 +1,19 @@
+* snake_game
+
+** About
+A 3D snake game written in Rust.
+
+** License
+ISC
+
+Copyright (c) 2022 Jeremiah LaRocco <jeremiah_larocco@fastmail.com>
+
+* Plan
+** TODO Implement a 3D snake game using OpenGL, GLFW, my obj-reader library, and a sound library.
+** TODO Build snake segments and other graphics in Wings3D.
+** TODO Find a sound library
+** TODO Create sound MP3s
+** TODO Find Rust OpenGL binding
+** TODO Find a Rust GLFW example
+** TODO Create GitHub repo
+** TODO Replace template with stubs
